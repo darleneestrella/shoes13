@@ -1,8 +1,9 @@
 remote_theme : mmistakes/minimal-mistakes
 title: Galaxy NGC 891
 include: ["_pages"]
+author_profile: true 
 
 author: 
   name: "Darlene Rangel"
-  avatar: "/assets/profile.jpg"
+  avatar: "http://cdn.akc.org/content/hero/puppy-boundaries_header.jpg"
   bio: "Idk."
