@@ -1,3 +1,8 @@
 remote_theme : mmistakes/minimal-mistakes
-title: Galaxy NGC 891
+title: Shoes!
 include: ["_pages"]
+
+author: 
+  name: "Darlene Rangel"
+  avatar: "https://darleneestrella.github.io/shoes13/"
+  bio: "I like shoes."
