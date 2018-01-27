@@ -5,4 +5,4 @@ permalink: /
 
 ## Hello, ChickTech!
 
-* abcdefghijklmnopqrstuvwxyz *
+* abcdefghijklmnopqrstuvwxyz 
