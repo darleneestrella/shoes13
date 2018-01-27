@@ -3,10 +3,6 @@ layout: single
 permalink: /
 ---
 
-## Hello, ChickTech!
+# Hello, ChickTech!
 
-* abcdefghijklmnopqrstuvwxyz 
-
-> wow 
-
-> cool 
+_abcdefghijklmnopqrstuvwxyz_
