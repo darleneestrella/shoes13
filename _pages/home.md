@@ -6,3 +6,7 @@ permalink: /
 ## Hello, ChickTech!
 
 * abcdefghijklmnopqrstuvwxyz 
+
+> wow 
+
+> cool 
