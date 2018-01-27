@@ -3,6 +3,6 @@ layout: single
 permalink: /
 ---
 
-# Hello, ChickTech!
+# Hello, Everyone!
 
 _abcdefghijklmnopqrstuvwxyz_
